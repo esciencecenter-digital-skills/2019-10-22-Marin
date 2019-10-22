@@ -6,3 +6,7 @@ I will keep some notes here
 
 ## Some changes
 I can make some changes on my readme file
+
+## Summary what we have done
+git add
+git commit
