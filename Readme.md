@@ -10,3 +10,6 @@ I can make some changes on my readme file
 ## Summary what we have done
 git add
 git commit
+
+## online changes
+Some additional changes made via the web user interface
